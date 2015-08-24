@@ -1,7 +1,7 @@
 getting-started-golang
 ======================
 
-[![wercker status](https://app.wercker.com/status/55db6f21a8e492995600c1c9/s "wercker status")](https://app.wercker.com/project/bykey/55db6f21a8e492995600c1c9)
+[![wercker status](https://app.wercker.com/status/cef33257c9250faf2fc0e9bb9dee3c2c/m "wercker status")](https://app.wercker.com/project/bykey/cef33257c9250faf2fc0e9bb9dee3c2c)
 
 A sample application in Go for wercker.
 
